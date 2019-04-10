@@ -1,4 +1,297 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Pacman.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Functions.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  HeadBubble.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\headbubble.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Helm.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  Level.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\level.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\level.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\level.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\level.cpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\level.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  Menus.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\menus.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\menus.cpp(64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\menus.cpp(102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\menus.cpp(108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\menus.cpp(109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\menus.cpp(110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\menus.cpp(111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\menus.cpp(112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(68): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(72): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(89): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(99): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(103): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(130): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(134): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(142): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(151): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(161): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(165): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\player.cpp(173): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  RpgGame.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(53): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(53): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(58): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(58): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(59): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(59): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(62): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(62): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(185): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(201): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(217): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(233): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(281): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(323): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(343): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(370): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\rpggame.cpp(433): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Enemy.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(113): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(118): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(128): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(131): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(156): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(159): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(184): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(187): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(212): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\enemy.cpp(215): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
   Wall.cpp
 c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
           with
@@ -20,9 +313,11 @@ c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\1
           [
               _Ty=S2D::Input::Keys
           ]
-  e:\new usb backup\12.01.2015\fundamentals of games and graphical systems\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+  c:\users\c017916e\downloads\rpggame-master\rpggame-master\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
           with
           [
               _Ty=S2D::Input::Keys
           ]
-  Pacman.vcxproj -> E:\NEW USB BACKUP\12.01.2015\Fundamentals of games and graphical systems\RpgGame\Debug\RpgGame.exe
+  Generating Code...
+  LINK : C:\Users\c017916e\Downloads\RPGGame-master\RPGGame-master\RpgGame\Debug\RpgGame.exe not found or not built by the last incremental link; performing full link
+  Pacman.vcxproj -> C:\Users\c017916e\Downloads\RPGGame-master\RPGGame-master\RpgGame\Debug\RpgGame.exe
