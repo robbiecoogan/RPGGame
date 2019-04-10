@@ -1,4 +1,5 @@
 # RPGGame
+This was written in C++
 The first application I created at university in 2014-2015.
 This has not been updated with my current programming standards. And is uploaded to demonstrate my development in programming methods and standards.
 
