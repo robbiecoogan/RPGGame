@@ -1,0 +1,4 @@
+this line = player X position
+this line = player Y position
+this line = player XP
+this line = player Levels

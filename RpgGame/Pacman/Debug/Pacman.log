@@ -1,0 +1,28 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Pacman.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Wall.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(675): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\vector(654): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  e:\new usb backup\12.01.2015\fundamentals of games and graphical systems\rpggame\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  Pacman.vcxproj -> E:\NEW USB BACKUP\12.01.2015\Fundamentals of games and graphical systems\RpgGame\Debug\RpgGame.exe
